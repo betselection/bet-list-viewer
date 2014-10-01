@@ -8,6 +8,7 @@
     <RootNamespace>Bet__List__Viewer</RootNamespace>
     <AssemblyName>Bet__List__Viewer</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

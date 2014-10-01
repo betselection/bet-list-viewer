@@ -23,18 +23,18 @@
 //
 //  You should have received a copy of the GNU General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
-using System;
 
 /// <summary>
 /// Bet List Viewer.
 /// </summary>
-using System.Windows.Forms;
-using System.Drawing;
-using System.ComponentModel;
-
-
 namespace Bet__List__Viewer
 {
+    // Directives
+    using System;
+    using System.ComponentModel;
+    using System.Drawing;
+    using System.Windows.Forms;
+
     /// <summary>
     /// Bet List Viewer class.
     /// </summary>
@@ -160,7 +160,7 @@ namespace Bet__List__Viewer
             if (lastBet.Length > 0)
             {
                 // Add rows
-                    string[] bets = lastBet.Split('|');
+                string[] bets = lastBet.Split('|');
 
                 // Add bets
                 foreach (string bet in bets)

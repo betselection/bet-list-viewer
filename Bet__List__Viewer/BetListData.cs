@@ -69,11 +69,12 @@ namespace Bet__List__Viewer
         {
             get
             {
-                return bet;
+                return this.bet;
             }
+
             set
             {
-                bet = value;
+                this.bet = value;
             }
         }
 
@@ -85,13 +86,13 @@ namespace Bet__List__Viewer
         {
             get
             {
-                return location;
+                return this.location;
             }
+
             set
             {
-                location = value;
+                this.location = value;
             }
         }
     }
 }
-

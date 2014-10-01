@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Bet__List__Viewer.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/AssemblyInfo.cs">
     <Files>
-      <File FileName="Bet__List__Viewer.cs" Line="129" Column="61" />
-      <File FileName="BetListData.cs" Line="44" Column="9" />
+      <File FileName="Bet__List__Viewer.cs" Line="41" Column="42" />
+      <File FileName="BetListData.cs" Line="15" Column="53" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="12" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
